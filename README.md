@@ -14,9 +14,9 @@ We implement PDU and other methods through the following dependencies:
 ## Dataset
 Access channels for each of the four data sets can be obtained through the following four links:
 
-[NASDAQ](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)
+[NASDAQ](https://www.nasdaq.com/news-and-insights)
 
-[ NYSE](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)
+[ NYSE](https://cn.investing.com/indices/nyse-composite-historical-data)
 
 [SNP500](https://github.com/dmis-lab/hats)
 
