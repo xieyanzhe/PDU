@@ -14,9 +14,9 @@ We implement PDU and other methods through the following dependencies:
 ## Dataset
 Access channels for each of the four data sets can be obtained through the following four links:
 
-[NASDAQ](https://cn.investing.com/indices/nyse-composite-historical-data)
+[NASDAQ](https://tushare.pro/document/2?doc_id=252)
 
-[NYSE](https://cn.investing.com/indices/nyse-composite-historical-data)
+[NYSE](https://tushare.pro/document/2?doc_id=252)
 
 [SNP500](https://github.com/dmis-lab/hats)
 
